@@ -27,7 +27,8 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/rafaluck46/rafaluck46/blob/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ###
 Profile Readme Generator
